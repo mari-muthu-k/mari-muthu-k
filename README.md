@@ -3,7 +3,7 @@
 ## About Me
 Hello there! 👋 I'm Mari, SDE 2. I'm currently working at [Comcast](https://github.com/Comcast). 
 
-## Skills
+## My Infinity stones
 - **Programming Languages:** Golang, python & Javascript
 - **Technologies:** ReactJs & React Native
 - **DB:** MySQL, PostgreSQL, MongoDB, Redis, InfluxDB, BadgerDB & RabbitMQ 
