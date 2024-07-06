@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello there! 👋 I'm Mari, SDE 2. I'm currently working in [Comcast](https://github.com/Comcast). 
+Hello there! 👋 I'm Mari, SDE 2. I'm currently working at [Comcast](https://github.com/Comcast). 
 
 ## Skills
 - **Programming Languages:** Golang, python & Javascript
@@ -17,8 +17,8 @@ Hello there! 👋 I'm Mari, SDE 2. I'm currently working in [Comcast](https://gi
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-muthu-k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
 
 ## Find Me
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mari-muthu-k/)
-- **Website:** [Website](https://marikraj.in/)
+- [**LinkedIn**](https://www.linkedin.com/in/mari-muthu-k/)
+- [**Website**](https://marikraj.in/)
 
 
 ## Contributions
