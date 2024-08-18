@@ -35,5 +35,5 @@ jobs:
         token: NOT_NEEDED
         base: ""
         plugin_chess: yes
-        plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+        plugin_chess_token: lip_aCfKxr154GOoi6aneOUh
         plugin_chess_platform: lichess.org
