@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
+<img align="center" src="/my-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/my-metrics-1.svg" alt="Metrics" width="400">
 ## Find Me
 - [**LinkedIn**](https://www.linkedin.com/in/mari-muthu-k/)
 - [**Website**](https://marikraj.in/)
