@@ -11,6 +11,7 @@ Hello there! 👋 I'm Mari, SDE 2. I'm currently working at [Comcast](https://gi
 - **Cloud:** AWS
 
 ## My Stats
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-muthu-k&layout=donut-vertical&theme=transparent)
 <br/>
 <br/>
