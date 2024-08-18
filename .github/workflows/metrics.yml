@@ -27,7 +27,15 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
+
+     - uses: lowlighter/metrics@latest
+       with:
+        filename: metrics.plugin.leetcode.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_leetcode: yes
+        plugin_leetcode_sections: solved, skills, recent
+
 
      - uses: lowlighter/metrics@latest
        with:
