@@ -1,21 +1,5 @@
 # Welcome to My GitHub Profile!
-
-## About Me
-Hello there! 👋 I'm Mari, SDE 2. I'm currently working at [Comcast](https://github.com/Comcast). 
-
-## My Infinity stones
-- **Programming Languages:** Golang, python & Javascript
-- **Technologies:** ReactJs & React Native
-- **DB:** MySQL, PostgreSQL, MongoDB, Redis, InfluxDB, BadgerDB & RabbitMQ 
-- **DevOps:** Docker, Docker swarm & k8
-- **Cloud:** AWS
-
-## My Stats
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-muthu-k&layout=donut-vertical&theme=transparent)
-<br/>
-<br/>
-![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-muthu-k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
 
 ## Find Me
 - [**LinkedIn**](https://www.linkedin.com/in/mari-muthu-k/)
