@@ -14,8 +14,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
+     - uses: lowlighter/metrics@latest
+       with:
+          filename: my-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+  
+          
+     - uses: lowlighter/metrics@latest
+       with:
+          filename: my-metrics-1.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
